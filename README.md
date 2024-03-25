@@ -8,4 +8,4 @@ This repository contains the initial stage of a student project to build a clone
 
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
-| 0: Authors/README File | [AUTHORS](https://github.com/Lordwill1/AirBnB_clone_v2/blob/master/AUTHORS) | Project authors |
+| 0: Authors/README File | [AUTHORS](https://github.com/ella97/AirBnB_clone/blob/main/AUTHORS) | Project author |
